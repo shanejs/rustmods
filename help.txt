@@ -1,0 +1,14 @@
+/score - who has the most pookies?
+/kits - get an initial drop of stuff
+/pookie - get your pookie and protect it!
+/horse - when you get on a horse it becomes yours. Type /help to call it
+/w - list your dead bodies and bags so you can find them
+/bp - how many blueprinters you have
+/kills - scoreboard for who has the most scientist kills
+/lootdrop - get a new lootdrop every two hours
+/list - list players on the server
+Other features:
+- Minicopters don't decay
+- Horses can't be damaged
+- Use a machete to destroy walls in your base
+- Resources stack to 5000
