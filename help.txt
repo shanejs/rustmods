@@ -12,3 +12,4 @@ Other features:
 - Horses can't be damaged
 - Use a machete to destroy walls in your base
 - Resources stack to 5000
+- Solo only: no code locks, assigning bags, multiple cupboard owners, etc. 
