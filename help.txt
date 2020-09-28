@@ -7,6 +7,7 @@
 /kills - scoreboard for who has the most scientist kills
 /lootdrop - get a new lootdrop every two hours
 /list - list players on the server
+/sil - to use the SIL mod to have images pasted on your signs
 Other features:
 - Minicopters don't decay
 - Horses can't be damaged
