@@ -12,4 +12,6 @@ Other features:
 - Horses can't be damaged
 - Use a machete to destroy walls in your base
 - Resources stack to 5000
+- Reduced night time
+- Reduced hostile time for bandit camp/outpost
 - Solo only: no code locks, assigning bags, multiple cupboard owners, etc. 
