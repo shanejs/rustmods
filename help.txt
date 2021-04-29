@@ -1,5 +1,5 @@
 /score - who has the most pookies?
-/kits - get an initial drop of stuff
+/kit - get an initial drop of stuff
 /backpack - we support the Backpacks mod!
 /pookie - get your pookie and protect it!
 /horse - when you get on a horse it becomes yours. Type /help to call it
@@ -10,10 +10,10 @@
 /list - list players on the server
 /sil - to use the SIL mod to have images pasted on your signs
 Other features:
-- Minicopters don't decay
+- Minicopters randomly spawn and don't decay
 - Horses can't be damaged
 - Use a machete to destroy walls in your base
 - Resources stack to 5000
 - Reduced night time
 - Reduced hostile time for bandit camp/outpost
-- Solo only: no code locks, assigning bags, multiple cupboard owners, etc. 
+- Solo only mode: no code locks, assigning bags, multiple cupboard owners, etc. 
