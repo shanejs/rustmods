@@ -1,4 +1,5 @@
 /score - who has the most pookies?
+/d - the approximately locations of cargo drops!
 /kit - get an initial drop of stuff
 /backpack - we support the Backpacks mod!
 /pookie - get your pookie and protect it!
