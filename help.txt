@@ -1,6 +1,6 @@
 /score - who has the most pookies?
 /d - the approximately locations of cargo drops!
-/kit - get an initial drop of stuff
+/kit - get an initial drop of stuff and other goodies
 /backpack - we support the Backpacks mod!
 /pookie - get your pookie and protect it!
 /horse - when you get on a horse it becomes yours. Type /help to call it
@@ -10,6 +10,7 @@
 /lootdrop - get a new lootdrop every two hours
 /list - list players on the server
 /sil - to use the SIL mod to have images pasted on your signs
+/bgrade - autoupgrade when building
 Other features:
 - Minicopters randomly spawn and don't decay
 - Horses can't be damaged
