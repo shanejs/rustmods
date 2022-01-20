@@ -20,3 +20,5 @@ Other features:
 - Reduced hostile time for bandit camp/outpost
 - Solo only mode: no code locks, assigning bags, multiple cupboard owners, etc. 
 - Cars don't decay and you can add code locks
+- NEW Boobytraps mod: put c4 or grenades in campfire/bbq/furnance and turn it on it will explode. 
+- NEW Monument changes: the standard monuments have been changed! Watch out!
