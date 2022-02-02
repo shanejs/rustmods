@@ -12,7 +12,7 @@
 /sil - to use the SIL mod to have images pasted on your signs
 /bgrade - autoupgrade when building
 Other features:
-- Minicopters randomly spawn and don't decay
+- GMinicopters randomly spawn and don't decay
 - Horses can't be damaged
 - Use a machete to destroy walls in your base
 - Resources stack to 5000
@@ -22,3 +22,4 @@ Other features:
 - Cars don't decay and you can add code locks
 - NEW Boobytraps mod: put c4 or grenades in campfire/bbq/furnance and turn it on it will explode. 
 - NEW Monument changes: the standard monuments have been changed! Watch out!
+- NEW Grid Power plugin
