@@ -1,5 +1,6 @@
 /score - who has the most pookies?
 /d - the approximately locations of cargo drops!
+NEW - /skin - add Steam Workshop skins to your items
 /kit - get an initial drop of stuff and other goodies
 /backpack - we support the Backpacks mod!
 /pookie - get your pookie and protect it!
@@ -15,10 +16,10 @@ Other features:
 - GMinicopters randomly spawn and don't decay
 - Horses can't be damaged
 - Use a machete to destroy walls in your base
-- Resources stack to 5000
+- Resources stack to 10000
 - Reduced night time
 - Reduced hostile time for bandit camp/outpost
-- Solo only mode: no code locks, assigning bags, multiple cupboard owners, etc. 
+- Solo only mode (or 2 only): no code locks, assigning bags, multiple cupboard owners, etc. 
 - Cars don't decay and you can add code locks
 - NEW Boobytraps mod: put c4 or grenades in campfire/bbq/furnance and turn it on it will explode. 
 - NEW Monument changes: the standard monuments have been changed! Watch out!
