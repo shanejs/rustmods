@@ -1,6 +1,6 @@
 /score - who has the most pookies?
 /d - the approximately locations of cargo drops!
-NEW - /skin - add Steam Workshop skins to your items
+/skin - add Steam Workshop skins to your items
 /kit - get an initial drop of stuff and other goodies
 /backpack - we support the Backpacks mod! 
    use "bind b backpack.open" to open using the b key
@@ -19,7 +19,7 @@ Other features:
 - Resources stack to 10000
 - Reduced night time
 - Reduced hostile time for bandit camp/outpost
-- Solo only mode (or 2 only): no code locks, assigning bags, multiple cupboard owners, etc. 
+- Mini and large helis don't decay
 - Cars don't decay and you can add code locks
-- NEW Monument changes: the standard monuments have been changed! Watch out!
-- NEW Grid Power plugin
+- Map & Monument changes: the standard monuments have been changed! Watch out!
+
