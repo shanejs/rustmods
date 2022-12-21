@@ -5,6 +5,8 @@
 /backpack - we support the Backpacks mod! 
    use "bind b backpack.open" to open using the b key
 /pookie - get your pookie and protect it!
+/cupboards - show your cupboards on the map
+/bags - show your sleeping bags on the map
 /horse - when you get on a horse it becomes yours. Type /help to call it
 /w - list your dead bodies and bags so you can find them
 /wh - where's my minicopter?
