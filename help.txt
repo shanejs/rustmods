@@ -17,11 +17,13 @@
 /sil - to use the SIL mod to have images pasted on your signs
 /bgrade - autoupgrade when building
 Other features:
+- Custom map and custom monuments
 - Use a machete to destroy walls in your base
+- Destroy a bag or towel to get cloth
 - Resources stack to 10000
 - Reduced night time
 - Reduced hostile time for bandit camp/outpost
 - Mini and large helis don't decay
-- Cars don't decay and you can add code locks
+- Cars don't decay
 - Map & Monument changes: the standard monuments have been changed! Watch out!
 
