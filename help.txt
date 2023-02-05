@@ -15,8 +15,7 @@
 /w - list your dead bodies and bags so you can find them
 /wh - where's my minicopter?
 /bags - where's my bags?
-/cupboards - where are my cupboards, I'm lost?!
-/bp - how many blueprinters you have
+/cupboards - where are my cupboards?
 /kills - scoreboard for who has the most scientist kills
 /lootdrop - get a new lootdrop every two hours
 /list - list players on the server
@@ -24,6 +23,7 @@
 /bgrade - autoupgrade when building
 Other features:
 - Custom map and custom monuments
+- See who crafted the gun and how many kills it has
 - Multiple hidden bunkers you can build in
 - Faster horse poop sales lol
 - Use a machete to destroy walls in your base
