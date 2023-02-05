@@ -7,7 +7,8 @@
 /pookie - get your pookie and protect it!
 /cupboards - show your cupboards on the map
 /bags - show your sleeping bags on the map
-/horse - when you get on a horse it becomes yours. Type /help to call it
+/horse - when you get on a horse it becomes yours. Type /horse to call it
+     Use /sethome to set a place where you can send the horse using the /gohome command
 /w - list your dead bodies and bags so you can find them
 /wh - where's my minicopter?
 /bp - how many blueprinters you have
