@@ -23,6 +23,9 @@
 /bgrade - autoupgrade when building
 Other features:
 - Custom map and custom monuments
+- More vending machines in monuments
+- 4 Bradleys on patrol plus Bradley Guards plug-in
+- Candles don't wear out
 - See who crafted the gun and how many kills it has
 - Multiple hidden bunkers you can build in
 - Faster horse poop sales lol
