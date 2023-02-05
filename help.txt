@@ -3,14 +3,19 @@
 /skin - add Steam Workshop skins to your items
 /kit - get an initial drop of stuff and other goodies
 /backpack - we support the Backpacks mod! 
-   use "bind b backpack.open" to open using the b key
+   Hit "F1" and type "bind b backpack.open" to open using the b key
 /pookie - get your pookie and protect it!
 /cupboards - show your cupboards on the map
 /bags - show your sleeping bags on the map
-/horse - when you get on a horse it becomes yours. Type /horse to call it
-     Use /sethome to set a place where you can send the horse using the /gohome command
+/horse - when you get on a horse it becomes yours. 
+     Type /horse to call your horse
+     Hit "F1" and type "bind h chat.say "/horse"
+     Use /sethome to set a home place
+     Use /gohome to send the horse there
 /w - list your dead bodies and bags so you can find them
 /wh - where's my minicopter?
+/bags - where's my bags?
+/cupboards - where are my cupboards, I'm lost?!
 /bp - how many blueprinters you have
 /kills - scoreboard for who has the most scientist kills
 /lootdrop - get a new lootdrop every two hours
@@ -19,6 +24,8 @@
 /bgrade - autoupgrade when building
 Other features:
 - Custom map and custom monuments
+- Multiple hidden bunkers you can build in
+- Faster horse poop sales lol
 - Use a machete to destroy walls in your base
 - Destroy a bag or towel to get cloth
 - Resources stack to 10000
