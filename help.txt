@@ -22,6 +22,7 @@
 /sil - to use the SIL mod to have images pasted on your signs
 /bgrade - autoupgrade when building
 Other features:
+- Use a salvaged hammer to destroy walls in your base
 - Custom map and custom monuments
 - More vending machines in monuments
 - 4 Bradleys on patrol plus Bradley Guards plug-in
@@ -29,7 +30,6 @@ Other features:
 - See who crafted the gun and how many kills it has
 - Multiple hidden bunkers you can build in
 - Faster horse poop sales lol
-- Use a machete to destroy walls in your base
 - Destroy a bag or towel to get cloth
 - Resources stack to 10000
 - Reduced night time
