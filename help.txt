@@ -2,7 +2,6 @@
 /score - who has the most pookies?
 /d - the approximately locations of cargo drops!
 /skin - add Steam Workshop skins to your items
-/kit - get an initial drop of stuff and other goodies
 /pookie - get your pookie and protect it!
 /cupboards - show your cupboards on the map
 /bags - show your sleeping bags on the map
@@ -21,7 +20,7 @@ Other features:
 - Use a salvaged hammer to destroy walls in your base
 - Custom map and custom monuments
 - More vending machines in monuments
-- 4 Bradleys on patrol plus Bradley Guards plug-in
+- 4 Bradleys on patrol
 - Candles don't wear out
 - See who crafted the gun and how many kills it has
 - Multiple hidden bunkers you can build in
